@@ -1,0 +1,2 @@
+serviceClass: org.fao.cioo.web.google.client.GreetingService
+path: 9CB7CBBE1DCFE1B204BC0C8B1FBBE1DC.gwt.rpc
